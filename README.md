@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/aletecnstuff" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="31" alt="instagram logo"  />
   </a>
-  <a href="https://www.tiktok.com/@aletecnstuff" target="_blank">
+  <a href="https://www.tiktok.com/@elaletec" target="_blank">
     <img src="https://www.svgrepo.com/show/333611/tiktok.svg" width="43" height="31" alt="tiktok logo"  />
   </a>
 </div>
