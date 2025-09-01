@@ -6,8 +6,9 @@
 
 ###
 
-<p align="left">Technology in all its aspects is my great passion, and over time, I have been able to turn it into my profession🧑🏼‍💻. I am in a constant state of learning, staying updated on the latest advancements, and enhancing my skills as a software engineer🚀.<br><br>Within this passion, I always strive for excellence and give my best, fearlessly taking on new challenges and assuming positions of responsibility whenever possible. This includes being part of 24/7 support teams or designing and managing the AWS cloud ☁️ infrastructure for a platform from zero to production-ready.<br><br>I would love to grow as a Backend Engineer and DevOps/Cloud Engineer, which is where I feel most comfortable, creating ETL processes, designing various types of APIs, and working on distributed systems, overall handling and processing information, together with the management of the infrastructure and the architecture of big applications.</p>
+<p align="left">I've always loved technology, ever since I started playing games being a little torrent-webpages-crawler or building my first PC. That led me (thankfully i guess?) to study Software Engineering (called Ingeniería Informática, in Spain, kind of Computer Science + Software Engineering). AND I recently ended my Master's Degree in Artificial Intelligence, after some years of DevOps + Backend + Swiss Knife I moved to a place where I can be closer to events and talks and to a very AI-driven environment, which I love.</p>
 
+Last year, I started my Content Creation journey, you can have a look if you want:
 ###
 
 <div align="center">
@@ -30,7 +31,7 @@
 
 ###
 
-<p align="left">I'm from Zaragoza, Spain 📍🇪🇸<br><br>- 🔭 I’m working as Backend Software Engineer + AWS DevOps/Clod Engineer <br>- ⚡ In my free time I love to find new restaurants 🥡, going to the gym 🏋🏼, going to the cinema and museums 🎭 (Art in general tbh)</p>
+<p align="left">I'm from Zaragoza, Spain 📍🇪🇸<br><br>- 🔭 I’m working as Technical Content Creator, which means that I create training material and environments to show and explain different products. I'm also helping to develop some cool stuff like MCPs and AI Agents. <br>- ⚡ In my free time I love discovering new restaurants 🥡, going to the gym 🏋🏼, going to the cinema and museums, and I started reading fantasy books recently and I'm 8 books deep into the Cosmere📚.</p>
 
 ###
 
@@ -38,7 +39,7 @@
 
 ###
 
-<p align="left">Here is a list of all the technologies that I’ve had experience with at some point in my career. While I may not be an expert in all of them, I have worked with each of these technologies in various capacities and have a foundational understanding of their principles and applications.</p>
+<p align="left">Here is a list of all the technologies that I’ve had experience with at some point in my career (That I managed to remember). Obviously, I don't master all of those, but I really like learning new stuff and playing around with different languages and frameworks. </p>
 
 ###
 
@@ -126,7 +127,7 @@
 
 ###
 
-<p align="left">These are the technologies that I am most proficient in and use regularly. I have a deeper understanding of these tools and frameworks and have used them extensively in professional projects:</p>
+<p align="left">These are the technologies that I have used more frequently:</p>
 
 ###
 
