@@ -31,7 +31,7 @@ Last year, I started my Content Creation journey, you can have a look if you wan
 
 ###
 
-<p align="left">I'm from Zaragoza, Spain 📍🇪🇸<br><br>- 🔭 I’m working as Technical Content Creator, which means that I create training material and environments to show and explain different products. I'm also helping to develop some cool stuff like MCPs and AI Agents. <br>- ⚡ In my free time I love discovering new restaurants 🥡, going to the gym 🏋🏼, going to the cinema and museums, and I started reading fantasy books recently and I'm 8 books deep into the Cosmere📚.</p>
+<p align="left">I'm from Zaragoza, Spain 📍🇪🇸<br><br>- 🔭 I’m working as Technical Enablement Engineer, which means that I create training material and environments to show and explain different products. I'm also helping to develop some cool stuff like MCPs, Skills and AI Agents. <br>- ⚡ In my free time I love discovering new restaurants 🥡, going to the gym 🏋🏼, going to the cinema and museums, and I started reading fantasy books recently and I'm 12 books deep into the Cosmere📚.</p>
 
 ###
 
